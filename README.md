@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter** and **python** for **data science**
 
-- 💬 Ask me about **My Projects, Care for Life Therapy Web**
+- 💬 Ask me about **My Projects**
 
 - 📫 How to reach me **joseadrian.pupo@gmail.com**
 
