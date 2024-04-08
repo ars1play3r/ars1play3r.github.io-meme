@@ -18,13 +18,8 @@
   }
   
   .meme-generator img {
-    height: 430px;
+    height: 420px;
     object-fit: cover;
-    text-align: center;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    left: 0;
   }
   
   .meme-generator .generate-meme-btn {
@@ -47,6 +42,9 @@
     letter-spacing: 3px;
   }
   
+  .meme-generator .meme-author {
+    margin: 8px;
+  }
   .meme-generator .meme-author {
     margin: 8px;
   }
